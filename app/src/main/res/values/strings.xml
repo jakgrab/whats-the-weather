@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsTheWeather</string>
+    <string name="degrees">°</string>
+    <string name="wind_speed">wind</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="rain">rain chance</string>
+
+</resources>
